@@ -2,7 +2,7 @@
 marp: true
 ---
 
-# VS Code Tips : Appearance
+# VS Code Tips : Navigation
 
 ---
 # UI area
@@ -30,9 +30,13 @@ marp: true
 
 ---
 # Editor Navigation
+- Switch Editor tab
+  - Win: `Ctrl + tab`, Mac: `Ctrl + tab`
 - Switching Editor Group
   - Win: `Ctrl + 1, 2, 3...`, Mac: `Command + 1, 2, 3...`
-- `F1` > `View: Maximize editor group`
+- Maximize editor group
+  - `F1` > `View: Maximize editor group`
+  - Try switching editor group after maximizing editor group
 
 --- 
 # Timeline (v1.44)

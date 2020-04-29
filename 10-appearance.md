@@ -38,4 +38,9 @@ filter by "@category:***"
 
 ---
 # Zen mode
+- Focus editor window
+- `F1` > `View: Toggle Zen mode`
+- OR combo shortcut, Win: `Ctrl + k > z`, Mac: `Command + k > z`
+
+## Full Screen
 - Win: `F11`, Mac: `F11`
