@@ -2,17 +2,28 @@
 marp: true
 ---
 # VS Code Tips
-Issei Hiraoka @hoisjp
+Issei Hiraoka [@hoisjp](https://github.com/hoisjp)
 
 ---
 # about me
 Issei Hiraoka @hoisjp
 coauthor of https://www.amazon.co.jp/dp/4839970920/
+
 ![width:150px](media/vscode-textbook.jpg)
+
 プログラマーのためのVisual Studio Codeの教科書
 4/30発売!!!!!!!!!!
-<br><br>
-This slides are made by Marp https://github.com/marp-team/marp. Thanks!
+
+---
+## Slides by marp
+This slides are made by Marp https://github.com/marp-team/marp.
+
+VS Code Plugin
+
+![](media/ext-Marp.png)
+
+
+Thanks!!
 
 ---
 # Visual Studio Code - Insiders
